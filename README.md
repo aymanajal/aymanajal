@@ -73,17 +73,13 @@
 
 整理客户日常操作问题形成 QA 问题库，并尝试接入月结、年结等培训资料。测试中遇到知识库服务免费版对多文档的支持限制；另一开源方案要求本地 GPU，受当时环境限制未完成搭建。
 
-**知识库与问题整理**
+**知识库与问答测试展示**
 
-![智能客服机器人测试：知识库资料与 QA 问题整理](assets/chatbot/knowledge-base.png)
+测试内容包括报错咨询、账户密码修改和往来核销操作指引，点击图片可查看原图。
 
-**微信群问答测试示例**
-
-测试内容包括报错咨询、账户密码修改和往来核销操作指引。
-
-![微信群自动回复示例：自定义转账、报错咨询与账户密码修改](assets/chatbot/answer-demo-1.png)
-
-![微信群自动回复示例：往来核销反核销操作咨询](assets/chatbot/answer-demo-2.png)
+| 知识库与问题整理 | 问答测试示例一 | 问答测试示例二 |
+| --- | --- | --- |
+| [![知识库资料与 QA 问题整理](assets/chatbot/knowledge-base.png)](assets/chatbot/knowledge-base.png) | [![自定义转账、报错咨询与账户密码修改](assets/chatbot/answer-demo-1.png)](assets/chatbot/answer-demo-1.png) | [![往来核销反核销操作咨询](assets/chatbot/answer-demo-2.png)](assets/chatbot/answer-demo-2.png) |
 
 #### 项目中使用的工具与排障案例
 
