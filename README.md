@@ -6,7 +6,7 @@
 
 北京 · 从需求调研、系统配置到上线交付与持续运维
 
-[文章与思考](https://github.com/aymanajal/blog) · [联系邮箱](mailto:wym15135582331@outlook.com)
+[文章与思考](https://aymanajal.github.io/blog/) · [联系邮箱](mailto:wangyimin1021@gmail.com)
 
 </div>
 
@@ -102,8 +102,7 @@
 在持续参与项目的过程中，随着 AI 工具能力的发展，我开始尝试把现场积累的业务理解与 AI 辅助实现结合起来：从收集需求、对接开发，进一步参与程序分析、修改方案和结果验证。
 
 - **影像系统需求修改实践**：向 AI 提供需求说明及已有后端 JAR、前端 ZIP 程序文件，借助 AI 分析程序、定位修改位置，完成前端调整，并获得后端无需修改的判断和数据库补充脚本。从分析到产出可供测试的修改版本，整体不到半小时；这一耗时仅指修改产出，不代表完成测试或上线交付。
-- **验证与交付判断**：修改产出后，仍需人工验证业务功能及其他操作是否受到影响。将 AI 分析结论与实际测试结果分开，持续关注方案确认、测试组织和后续维护。
-- **实践后的思考**：基于上述尝试，整理[关于 AI 改变 ERP 二次开发和实施分工的文章](https://github.com/aymanajal/blog/blob/main/posts/ai-erp-implementation.md)（[Word 原稿](https://github.com/aymanajal/blog/blob/main/documents/ai-era-business-transformation.docx)），思考现场顾问如何借助业务经验参与更多实现工作，以及开发提速后，需求协作、结果验证与维护责任应如何衔接。
+- **实践后的思考**：基于上述尝试，整理[关于 AI 改变 ERP 二次开发和实施分工的文章](https://aymanajal.github.io/blog/posts/ai-erp-implementation/)，思考现场顾问如何借助业务经验参与更多实现工作，以及开发提速后，需求协作、结果验证与维护责任应如何衔接。
 
 ### 2. 国投集团财务信息一体化项目
 
@@ -153,9 +152,8 @@
 
 ## 联系与记录
 
-- 邮箱：[wym15135582331@outlook.com](mailto:wym15135582331@outlook.com)
-- 文章：[文章与思考](https://github.com/aymanajal/blog) · [原博客](https://matters.town/@windsdirecti)
-- 简历：[完整履历](https://aymanajal.github.io/resume/resume/) · [简历仓库](https://github.com/aymanajal/resume)
+- 邮箱：[wangyimin1021@gmail.com](mailto:wangyimin1021@gmail.com)
+- 文章：[文章与思考](https://aymanajal.github.io/blog/) · [原博客](https://matters.town/@windsdirecti)
 
 ---
 
