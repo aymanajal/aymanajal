@@ -150,10 +150,17 @@
 - **山西财经大学** · 本科 · 行政管理（2021.03 — 2024.01）
 - **山西轻工职业技术学院** · 专科 · 会计（2017.09 — 2020.07）
 
-## 联系与记录
+## 文章与思考
+
+[阅读博客](https://aymanajal.github.io/blog/) · [文章归档](https://aymanajal.github.io/blog/archives/)
+
+- [当 AI 参与二次开发，实施顾问的工作如何变化](https://aymanajal.github.io/blog/posts/ai-erp-implementation/)：从影像需求修改出发，思考 AI 对需求实现和岗位分工的影响。
+- [ERP 项目中的初次代码修改之旅](https://aymanajal.github.io/blog/posts/2024-08-13-8dmtrjvuzwdl/)：围绕实际业务场景，记录查询逻辑调整与学习过程。
+- [一次间歇性连接超时排查](https://aymanajal.github.io/blog/posts/2026-11-22-voxgubzlll8x/)：记录双端抓包、状态对照、问题复现与后续验证。
+
+## 联系方式
 
 - 邮箱：[wangyimin1021@gmail.com](mailto:wangyimin1021@gmail.com)
-- 文章：[文章与思考](https://aymanajal.github.io/blog/) · [原博客](https://matters.town/@windsdirecti)
 
 ---
 
